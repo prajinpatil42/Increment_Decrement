@@ -10,7 +10,7 @@
 ![logo](https://github.com/prajinpatil42/Increment_Decrement/blob/main/Images/2.png)
 
 ---------------------------------------------------------------------
-<h1>When you clicked on - button</h1>]
+<h1>When you clicked on - button</h1>
 
 ![logo](https://github.com/prajinpatil42/Increment_Decrement/blob/main/Images/3.png)
 
