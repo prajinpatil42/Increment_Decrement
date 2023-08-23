@@ -4,6 +4,8 @@
 
 ![logo](https://github.com/prajinpatil42/Increment_Decrement/blob/main/Images/1.png)
 
+<image src="https://github.com/prajinpatil42/Increment_Decrement/blob/main/Images/1.png">
+
 ---------------------------------------------------------------------
 <h1>When you clicked on + button</h1>
 
